@@ -1,0 +1,9 @@
+numpy==1.19.2
+websocket-client==0.58.0
+requests==2.25.1
+TA-Lib==0.4.19
+python-telegram-bot==12.6.1
+matplotlib==3.2.1
+Pillot==8.0.0
+mplfinance==0.12.7a17
+pandas==1.0.3
