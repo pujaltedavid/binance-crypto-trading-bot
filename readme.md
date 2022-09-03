@@ -122,7 +122,7 @@ Gives a random fact in case you are sad after all the losses.
 
 ### Trading bot
 
-- White line: when the trade has been opened
+- `White line`: when the trade has been opened
 - `Red line`: stop loss price
 - `Green line`: target price
 
