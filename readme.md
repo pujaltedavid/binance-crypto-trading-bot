@@ -128,7 +128,7 @@ Gives a random fact in case you are sad after all the losses.
 
 Note that for long trades, the green line is above the red line. For short trades, the red line is the one above.
 
-<div style='display: flex; gap: 20px'>
+<div style='display: flex; gap: 20px;'>
 <img width="402" height="291" src='examples/chart1.png'>
 <img width="402" height="291" src='examples/chart2.png'>
 <img width="402" height="291" src='examples/chart3.png'>
@@ -145,7 +145,7 @@ More trade examples can be found in examples directory. If anyone is interested 
 
 ### Telegram bot
 
-<div>
+<div style='display: flex; gap: 20px;'>
 <img width="282" height="500" src='examples/sc1.jpg'>
 <img width="282" height="500" src='examples/sc2.jpg'>
 <img width="282" height="500" src='examples/sc3.jpg'>
