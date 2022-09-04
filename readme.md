@@ -147,8 +147,8 @@ It can be seen how not all the trades are positive. More trade examples can be f
 
 <div style='display: flex; gap: 20px;'>
 <img width="282" height="500" src='examples/sc1.jpg'>
-<img width="282" height="500" src='examples/sc2.jpg'>
 <img width="282" height="500" src='examples/sc3.jpg'>
+<img width="282" height="500" src='examples/sc2.jpg'>
 <img width="282" height="500" src='examples/sc5.jpg'>
 <img width="282" height="500" src='examples/sc4.jpg'>
 </div>
