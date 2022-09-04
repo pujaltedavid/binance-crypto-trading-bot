@@ -1,6 +1,6 @@
 # binance-crypto-trading-bot
 
-> A cryptocurrency trading bot that automates long and short trades on a bunch of USDT pairs. It uses a simple strategy using fractal indicator combined with Alligator indicator(exponential moving averages) from Bill Williams.
+> A cryptocurrency trading bot that automates long and short trades on a bunch of USDT pairs. It uses a simple strategy using fractal indicator combined with Alligator indicator (exponential moving averages) from Bill Williams.
 
 ## Warning
 
