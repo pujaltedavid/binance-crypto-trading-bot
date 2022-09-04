@@ -141,7 +141,7 @@ Note that for long trades, the green line is above the red line. For short trade
 <img width="402" height="291" src='examples/chart10.png'>
 </div>
 
-It can be seen how not all the trades are positive. More trade examples can be found in examples directory. If anyone is interested in contributing, it can study the examples in order to see when the strategy fails and make improvements.
+It can be seen how not all the trades are positive. More trade examples can be found in examples directory (around 1000 past trades). If anyone is interested in contributing, it can study the examples in order to see when the strategy fails and make improvements.
 
 ### Telegram bot
 
