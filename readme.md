@@ -120,7 +120,7 @@ Gives a random fact in case you are sad after all the losses.
 
 ## Some results and examples
 
-### Trading bot
+### Trading bot examples
 
 - `White line`: when the trade has been opened
 - `Red line`: stop loss price
@@ -143,7 +143,7 @@ Note that for long trades, the green line is above the red line. For short trade
 
 It can be seen how not all the trades are positive. More trade examples can be found in examples directory (around 1000 past trades). If anyone is interested in contributing, it can study the examples in order to see when the strategy fails and make improvements.
 
-### Telegram bot
+### Telegram bot examples
 
 <div style='display: flex; gap: 20px;'>
 <img width="282" height="500" src='examples/sc1.jpg'>
