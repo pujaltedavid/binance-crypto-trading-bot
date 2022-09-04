@@ -132,16 +132,16 @@ Note that for long trades, the green line is above the red line. For short trade
 <img width="402" height="291" src='examples/chart3.png'>
 <img width="402" height="291" src='examples/chart4.png'>
 <img width="402" height="291" src='examples/chart1.png'>
-<img width="402" height="291" src='examples/chart5.png'>
 <img width="402" height="291" src='examples/chart6.png'>
 <img width="402" height="291" src='examples/chart7.png'>
+<img width="402" height="291" src='examples/chart5.png'>
 <img width="402" height="291" src='examples/chart8.png'>
 <img width="402" height="291" src='examples/chart2.png'>
 <img width="402" height="291" src='examples/chart9.png'>
 <img width="402" height="291" src='examples/chart10.png'>
 </div>
 
-More trade examples can be found in examples directory. If anyone is interested in contributing, it can study the examples in order to see when the strategy fails and make improvements.
+It can be seen how not all the trades are positive. More trade examples can be found in examples directory. If anyone is interested in contributing, it can study the examples in order to see when the strategy fails and make improvements.
 
 ### Telegram bot
 
