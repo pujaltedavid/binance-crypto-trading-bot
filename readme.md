@@ -145,6 +145,8 @@ It can be seen how not all the trades are positive. More trade examples can be f
 
 ### Telegram bot examples
 
+In the examples, a initial 1000 USDT is used, with a maximum 20 active pairs, that is 50 USDT per trade. The trades with a green light indicates buy actions, the ones with red lights sell actions. They are not related with a positive or negative trade. If a sell action has a total USDT higher than 50, it indicates a positive trade in this case. Some screenshots use a x5 leverage and some others x1, as indicated in the trading messages.
+
 <div style='display: flex; gap: 20px;'>
 <img width="282" height="500" src='examples/sc1.jpg'>
 <img width="282" height="500" src='examples/sc3.jpg'>
