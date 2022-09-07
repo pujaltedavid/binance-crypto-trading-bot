@@ -557,12 +557,12 @@ def on_message(ws, message):
             
             # Update the candles only when the candles from all cryptos are
             # closed.
-            # Because there is a crypto symbol that doesn't work,
-            # we need to count until 74 (len-1) TODO
-            # TODO take out the invalid crypto pair and make all() to avoid
+            # Because there are three crypto symbols that don't work,
+            # we need to count until 71 (len-1) TODO
+            # TODO take out the invalid crypto pairs and make all() to avoid
             # traversing everything
             size = len(closes[crypto])
-            if sum([len(close) == size for close in closes.values()]) == 74:
+            if sum([len(close) == size for close in closes.values()]) == 71:
                 updateCandles()
                 
             # Update calculations
