@@ -618,6 +618,7 @@ def main():
     dispatcher.add_handler(MessageHandler(Filters.text, messageListener))
     
     updater.start_polling()
+    updater.idle()
             
 if __name__ == '__main__':
     main()

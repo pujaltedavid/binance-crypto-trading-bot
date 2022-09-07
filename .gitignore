@@ -1,3 +1,7 @@
 token.txt
+tradeHistory.txt
+summary.png
 
 /___pycache__
+
+*.pyc
