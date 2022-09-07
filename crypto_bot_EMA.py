@@ -283,12 +283,12 @@ def getBnbPrice():
 
 
 def updateThresholds():
-    with open('thresholds.json', 'w') as textFile:
+    with open('thresholds.json', 'w+') as textFile:
         json.dump(thresholds, textFile)
 
 
 def updateCandles():
-    with open('candles.json', 'w') as textFile:
+    with open('candles.json', 'w+') as textFile:
         json.dump(candles, textFile)
         
 
@@ -548,7 +548,7 @@ def on_message(ws, message):
 
         # Do calculations only when the candle is closed
         if kline['x']:
-            print('\n', time.asctime(time.gmtime(time.time())), '\n')
+            #print('\n', time.asctime(time.gmtime(time.time())), '\n')
             global candles, closes, ma, sma, rsi, wallet, targetStop
 
             crypto = kline['s']

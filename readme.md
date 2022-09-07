@@ -173,7 +173,14 @@ Skip this step if you only intend to use the bot without Telegram communication.
 - When asked, enter a name for the bot
 - Give the Telegram bot a unique username. Note that the bot name must end with the word "bot" (case-insensitive)
 - Save the Telegram bot's access token
-- Put the access token in _telegram_bot.py_ file
+- Put the access token in a new file called _token.txt_ in the same directory
+
+Configure user ID
+
+- Run _telegram_bot.py_ in the console
+- Start a new conversation with the bot
+- It will message us that the access is denegated, but will give us what our user ID is
+- Go at the top of _telegram_bot.py_ file and change `USER = None` by the user that the bot has sent us. This way is secure that the bot can only interact with you.
 
 ### How to run the bot
 
